@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="eight_ball_app"
+        android:label="Eight Ball App"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
